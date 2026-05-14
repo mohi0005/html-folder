@@ -1,0 +1,22 @@
+#box1{
+    border:1px solid;
+    height:300px;
+    width:300px;
+    background-color:skyblue;
+    position:static;
+
+
+    
+}
+#box2{
+    border:2px solid;
+    height:10px;
+    width:200px;
+    background-color:maroon;
+    position:relative;
+    top:0px;
+    left:10px;
+    
+/*this is absoloute has another thing in the positioning l*/
+    
+}

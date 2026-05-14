@@ -1,0 +1,27 @@
+body{
+    background-color:pink;
+}
+h1{
+    color:blue;
+
+}
+p1{
+   
+    /*background-color:purple;*/
+    color:orange;
+    font-family:italic;
+    font-size:30px;
+    border-width:dashed;
+    border-style:outset;
+    border-radius:30px;
+    border-top-style:dotted;
+    border-bottom-style:double;
+    border-left-style:dotted;
+    border-right-style:dotted;
+}
+
+p2{
+   /* background-color:rgb(9, 235, 9);*/
+    color:tomato;
+    font-family:italic;
+}
