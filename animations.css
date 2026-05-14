@@ -1,0 +1,16 @@
+#box1{
+    width:250px;
+    height:250px;
+    background-color:maroon;
+    font-size:225px;
+    text-align:centre;
+
+animation:mySlide;
+animation:3s linear 0s infinite running mySlide;
+
+}
+@keyframes mySlide{
+    from{margin-left:100%;}
+    to{margin-left:0%;}
+
+}
