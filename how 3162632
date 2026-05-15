@@ -1,0 +1,30 @@
+[33mcommit 3162632edeb0bb0f4a4733666bb88df2981c77a2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mohi0005 <mohiuddinsyed05@gmail.com>
+Date:   Fri May 15 14:51:47 2026 +0530
+
+    new git i
+
+[1mdiff --git a/onclickbutton.html b/onclickbutton.html[m
+[1mindex ca90fd2..edea89f 100644[m
+[1m--- a/onclickbutton.html[m
+[1m+++ b/onclickbutton.html[m
+[36m@@ -1,14 +1,17 @@[m
+ <!DOCTYPE html>[m
+ <html>[m
+     <head>[m
+[32m+[m[32m        <title>this is my new web</title>[m
+[32m+[m
+         <style>[m
+             h1{color:green;[m
+             }[m
+[31m-        </style>[m
+[32m+[m[41m    [m
+[32m+[m[32m        </style[m
+     </head>[m
+     <body>[m
+         <h1>[m
+[31m-            hello world this is the new code[m
+[32m+[m[32m            hello world[m[41m [m
+         </h1>[m
+         <button onclick="alert('Button clicked!')">click here</button>[m
+ [m
